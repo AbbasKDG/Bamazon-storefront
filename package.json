@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-storefront",
+  "version": "1.0.0",
+  "description": "*Node.js &amp; MySQL Store*",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbasKDG/Bamazon-storefront.git"
+  },
+  "author": "Abbas Moiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbbasKDG/Bamazon-storefront/issues"
+  },
+  "homepage": "https://github.com/AbbasKDG/Bamazon-storefront#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
