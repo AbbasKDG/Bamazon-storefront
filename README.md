@@ -7,7 +7,7 @@ The first objective is to create a product table (of unique id, name of product,
 
 
 ``` javascript
-              equire('./bamazon');
+              require('./bamazon');
               require('inquirer');
 ```
 Inquirer is the primary npm package being used here. Logging *products* table from the bamazon database
