@@ -16,13 +16,9 @@ Inquirer is the primary npm package being used here. Logging *products* table fr
               Inquirer.prompt(){...
 ```
 method used to gather user inputs for a generic sale of goods request via SELECT. 
-User inputs used to select items from database to be logged and updated
+To launch
 ```javascript
-              connection.query('[MYSQL query here]',  function(error,result){ ...
+              node bamazon.js
 ```
-
-## Coming up     :exclamation:
-* A complete Store-side Inventory Management system   :package:
-* A sales tracking system   :chart_with_downwards_trend:
 
 
