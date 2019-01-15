@@ -20,5 +20,7 @@ To launch
 ```javascript
               node bamazon.js
 ```
-
+Notes: Customer side is nearly built except for inventory management. 
+Working on completing Warehouse. 
+Would like to build a front-end. 
 
